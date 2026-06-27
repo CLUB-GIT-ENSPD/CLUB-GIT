@@ -1,4 +1,4 @@
-# Club GIT (anciennement Club Génie) - Frontend
+# Club GIT - Frontend
 
 Bienvenue sur le dépôt Frontend de **Club GIT**, une plateforme moderne et complète de gestion de club universitaire ou d'association. Ce projet offre une interface utilisateur haut de gamme basée sur un design "Premium Dark Mode" et "Glassmorphism".
 
