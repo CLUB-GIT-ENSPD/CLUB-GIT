@@ -1,0 +1,6 @@
+{
+  "name": "Club GIT ENSPD — Plateforme d'Excellence & Hub Technologique",
+  "description": "Plateforme officielle du Club Génie Informatique & Télécommunications de l'ENSPD (École Nationale Supérieure Polytechnique de Douala). Projets d'ingénierie, gamification & primes, suivi de présence QR, gestion agile des tâches et communauté de l'élite tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
